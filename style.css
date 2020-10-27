@@ -1,0 +1,24 @@
+
+body {
+    margin: 0;
+}
+
+header {
+    background: #202020;
+    color: white;
+    height: 3rem;
+    
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+}
+
+main {
+    margin-top: 3rem;
+    padding: 1rem;
+}
